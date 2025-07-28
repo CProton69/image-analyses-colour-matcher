@@ -1,0 +1,17 @@
+.env
+app.py
+color_analysis.json
+color_analyzer.py
+color_matcher.py
+config.toml
+database.py
+filename.txt
+mydata.db
+nWqFFvD.avif
+palette_exporter.py
+pencil_database.py
+pyproject.toml
+replit.txt
+run_app.bat
+venv
+__pycache__
