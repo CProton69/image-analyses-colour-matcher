@@ -16,6 +16,6 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://HF_USERNAME:$HF_TOKEN@huggingface.co/spaces/drs1869/
+        run: git push https://HF_USERNAME:$HF_TOKEN@huggingface.co/spaces/drs1869/image-analyses-colour-matcher
 
-git push https://ruslanmv:$HF_TOKEN@huggingface.co/spaces/image-analyses-colour-matcher main
+git push https://CProton69:$HF_TOKEN@huggingface.co/spaces/image-analyses-colour-matcher main
