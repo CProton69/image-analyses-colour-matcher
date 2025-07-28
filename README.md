@@ -21,8 +21,7 @@ A Streamlit app that analyzes uploaded images to extract dominant colors and mat
 ## 🖥 Demo
 
 ![App Screenshot](images/full-app-screenshot.png)
-![App Screenshot](images/main.png)
-![App Screenshot](images/settings.png)
+
 ---
 
 ## ⚙️ Installation
