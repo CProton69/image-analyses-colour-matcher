@@ -30,3 +30,8 @@ A Streamlit app that analyzes uploaded images to extract dominant colors and mat
    ```bash
    git clone https://github.com/Cproton69/image-analyser-app.git
    cd image-analyser-app
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   streamlit run app.py
+
